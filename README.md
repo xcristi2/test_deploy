@@ -8,4 +8,5 @@ Checking on the local remote
 Another new line for testing
 Another new line for testing sch
 One final github test
+sch github test
 Adding a line for heroku push test.
